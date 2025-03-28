@@ -4,10 +4,10 @@ c=int(input("Enter English marks ="))
 d=int(input("Enter Science marks ="))
 e=int(input("Enter Social Science marks ="))
 p=(b+c+d+e)/4
-print("Your percentage =",p)
 if p >= 101:
         print ("Please enter valid marks")
         exit()
+print("Your percentage =",p)
 if p>=90:
     print(a,"Grade is A1")
 elif p>=75:
