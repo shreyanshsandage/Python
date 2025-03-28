@@ -20,4 +20,4 @@ elif player == 'scissors':
     else:
         print('You lose!')
 else:
-    print('Please enter a valid move!')
+    print('Please enter a valid move') 
