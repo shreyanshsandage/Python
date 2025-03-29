@@ -8,7 +8,7 @@ print("Your percentage =",p)
 if p >= 101:
         print ("Please enter valid marks")
         exit()
-if p>=100:
+if p>=95:
     print(a,"Grade is A")
 elif p>=89:
     print(a,"Grade is B")
