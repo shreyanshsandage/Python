@@ -6,6 +6,7 @@ print("You are the seeker. Try to find where your friends are hiding!")
 
 hiding_spots = ["behind the tree", "under the table", "in the closet", "behind the couch", "in the attic"]
 hider = random.choice(hiding_spots)
+print(hider)
 
 print("\nYour friends are hiding...")
 time.sleep(2)

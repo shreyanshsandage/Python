@@ -1,4 +1,4 @@
 import time
 print("Python is here")
-username = input("Hitesh")
+username = ("Hitesh")
 print(username)
