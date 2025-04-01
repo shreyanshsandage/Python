@@ -3,4 +3,4 @@ def multiply(a, b):
 
 print("multiply"(2, 3))
 print("multiply"('a', 5))
-print("multiply"(6, 'b'))
+print("multiply"(6, 'a'))
