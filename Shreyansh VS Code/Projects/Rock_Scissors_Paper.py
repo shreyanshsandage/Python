@@ -1,4 +1,5 @@
 import random
+print ("Welcome to Rock, Paper, Scissors!")
 player = input("Enter your choice (rock/paper/scissors): ")
 opponent = random.choice(['rock', 'paper', 'scissors'])
 print(f'Opponent choice is {opponent}')
